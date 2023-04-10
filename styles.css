@@ -1,15 +1,15 @@
 body {
-    background-color: #FAF7F0;
+    background-color: #F5EBEB;
 }
 
 h1 {
-    color: #98A8F8;
+    color: #867070;
     font-family: script mt;
     font-size: 45px;
 }
 
 h3 {
-    color: #98A8F8;
+    color: #867070;
 }
 
 hr {
@@ -19,3 +19,5 @@ hr {
     border-width: 5px;
     width: 5%;
 }
+
+img {background-color: #F5EBEB;}
